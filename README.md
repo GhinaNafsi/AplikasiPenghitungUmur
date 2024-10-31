@@ -2,7 +2,7 @@
  Latihan 2-Ghina Nafsi-2210010324
  
 ## Deskripsi
-Aplikasi ini dibuat menggunakan Java class dan jFrame From sebagai tampilan antarmuka (GUI) untuk menghitung hari ulang tahun disatu tahun kedepan dan mencari peristiwa penting pada tanggal ulang tahun atau tanggal tahu lahir. Proyek ini dibuat sebagai bagian dari tugas pada mata kuliah Pemrograman Berorientasi Objek 2.
+Aplikasi ini dibuat menggunakan aplikasi NetBeans 8.2 yaitu Java class dan jFrame From sebagai tampilan antarmuka (GUI) untuk menghitung hari ulang tahun disatu tahun kedepan dan mencari peristiwa penting pada tanggal ulang tahun atau tanggal tahu lahir. Untuk komponen GUI menggunakan JFrame, JPanel, JLabel, JButon, JDateChooser, dan JTextField. Proyek ini dibuat sebagai bagian dari tugas pada mata kuliah Pemrograman Berorientasi Objek 2.
 
 ## Contoh Gambar Project Setelah di Run
 ![](https://github.com/GhinaNafsi/AplikasiPenghitungUmur/blob/main/ss%20perhitungan%20umur.png)
